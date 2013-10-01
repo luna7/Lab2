@@ -1,3 +1,3 @@
 This is the first conflict.
 
-We probably shouldn't keep this version of conflict1.txt because I wrote it and I am tired...
+hello
